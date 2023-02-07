@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/farooqpk/cat-quotes-generator/static/css/main.f52012ca.css",
+    "main.js": "/farooqpk/cat-quotes-generator/static/js/main.b926941e.js",
+    "index.html": "/farooqpk/cat-quotes-generator/index.html",
+    "main.f52012ca.css.map": "/farooqpk/cat-quotes-generator/static/css/main.f52012ca.css.map",
+    "main.b926941e.js.map": "/farooqpk/cat-quotes-generator/static/js/main.b926941e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f52012ca.css",
+    "static/js/main.b926941e.js"
+  ]
+}
