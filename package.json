@@ -2,7 +2,7 @@
     "name": "learn",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://github.com/farooqpk/cat-quotes-generator",
+    "homepage": "https://farooqpk.github.io/cat-quotes-generator/",
     "dependencies": {
         "@emotion/react": "^11.10.5",
         "@emotion/styled": "^11.10.5",
